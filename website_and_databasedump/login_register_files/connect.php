@@ -1,8 +1,8 @@
 <?php
-   $db_user = 'daandebruijn';
-   $db_pass = 'Xohk0Pei5d';
-   $db_host = 'localhost';
-   $db_name = 'daandebruijn';
+   $db_user = '';
+   $db_pass = '';
+   $db_host = '';
+   $db_name = '';
 
    $ins_game_id = "";
    $ins_user_id = "";
